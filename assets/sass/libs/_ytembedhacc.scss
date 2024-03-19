@@ -1,0 +1,14 @@
+// Embedded video
+
+@media only screen and (max-width: 600px) {
+	.YTEmbed {
+		width: 345px;
+		height: 190px;
+	}
+}
+@media only screen and (min-width: 600px) and (max-width: 800px) {
+	.YTEmbed {
+		width: 700px;
+		height: 390px;
+	}
+}
